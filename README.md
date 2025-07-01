@@ -1,1 +1,1 @@
-Analyzing how often different stocks are volatile on the same days using Jaccard similarity.
+Analyzes and visualizes similarity between S&P 500 stocks based on return patterns.
